@@ -1,5 +1,5 @@
 # Interactive Job and Internship Platform  
-*For Technical Education Department, Government of Rajasthan*
+*For Technical Education Department, Government of Rajasthan SIH-1632*
 
 ## Project Overview
 
@@ -44,5 +44,4 @@ This platform is designed to connect technical education students in Rajasthan w
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (or PostgreSQL)  
 - **Authentication:** JWT, OAuth  
-- **Real-time Communication:** Socket.io or WebRTC  
 - **Hosting:** Vercel (Frontend), Render (Backend)  
